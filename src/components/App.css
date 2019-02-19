@@ -1,0 +1,8 @@
+.App {
+  display: flex;
+  padding: 20px;
+}
+
+.Card {
+  justify-content: center;
+}
